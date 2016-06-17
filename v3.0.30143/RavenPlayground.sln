@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenPlayground", "RavenPlayground\RavenPlayground.csproj", "{26F0A70A-2E93-4E64-9273-2359428775CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenPlayGroundConsoleApp", "RavenPlayGroundConsoleApp\RavenPlayGroundConsoleApp.csproj", "{76A62427-7F1D-4542-84CF-CFB180E914A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26F0A70A-2E93-4E64-9273-2359428775CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F0A70A-2E93-4E64-9273-2359428775CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F0A70A-2E93-4E64-9273-2359428775CD}.Debug|x64.ActiveCfg = Debug|x64
+		{26F0A70A-2E93-4E64-9273-2359428775CD}.Debug|x64.Build.0 = Debug|x64
+		{26F0A70A-2E93-4E64-9273-2359428775CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F0A70A-2E93-4E64-9273-2359428775CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F0A70A-2E93-4E64-9273-2359428775CD}.Release|x64.ActiveCfg = Release|x64
+		{26F0A70A-2E93-4E64-9273-2359428775CD}.Release|x64.Build.0 = Release|x64
+		{76A62427-7F1D-4542-84CF-CFB180E914A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A62427-7F1D-4542-84CF-CFB180E914A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A62427-7F1D-4542-84CF-CFB180E914A6}.Debug|x64.ActiveCfg = Debug|x64
+		{76A62427-7F1D-4542-84CF-CFB180E914A6}.Debug|x64.Build.0 = Debug|x64
+		{76A62427-7F1D-4542-84CF-CFB180E914A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A62427-7F1D-4542-84CF-CFB180E914A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A62427-7F1D-4542-84CF-CFB180E914A6}.Release|x64.ActiveCfg = Release|Any CPU
+		{76A62427-7F1D-4542-84CF-CFB180E914A6}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
